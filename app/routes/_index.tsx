@@ -6,8 +6,8 @@ export const meta: MetaFunction = () => {
 
 export default function Index() {
   return (
-    <div className="container">
-      <h1 className='text-blue-500'>Welcome to Remix</h1>
+    <div className="container py-12">
+      <h1 className="mb-4 text-blue-500">Welcome to Remix</h1>
       <ul>
         <li>
           <a target="_blank" href="https://remix.run/tutorials/blog" rel="noreferrer">
